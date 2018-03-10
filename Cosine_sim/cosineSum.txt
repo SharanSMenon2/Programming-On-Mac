@@ -1,0 +1,7 @@
+Text 1: one sees clearly only with the heart anything essential is invisible to the eyes
+Text 2: let my soul smile through my heart and my heart smile through my eyes that i may scatter rich smiles in sad hearts
+
+words |heart|eyes|my|smile
+————————————————
+Text 1|1    |1   |0 |0
+Text 2|1    |1   |2 |2
